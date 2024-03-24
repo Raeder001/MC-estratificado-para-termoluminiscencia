@@ -1,0 +1,1 @@
+# MC-estratificado-para-termoluminiscencia
